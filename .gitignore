@@ -15,7 +15,7 @@ dist
 # Editor
 .idea
 *.swp
-.vscode
+#.vscode
 
 # Other
 .DS_Store

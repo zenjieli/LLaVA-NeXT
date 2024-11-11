@@ -1,0 +1,3 @@
+datasets:
+  - json_path: /home/zli/workspace/mine/VLM-data/train/data_internvl/hico_train_internvl.jsonl
+    sampling_strategy: "first:50%"
